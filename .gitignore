@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Generated OCR outputs
+01_resized.jpg
+02_grayscale.jpg
+03_blur.jpg
+04_threshold.jpg
+05_processed.jpg
+recognized_result.jpg
+recognized_text.txt
